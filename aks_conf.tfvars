@@ -1,0 +1,6 @@
+azure_region="westeurope"
+kubernetes_version=""
+resource_group="AKSCluster-RG"
+acr_name="aksterraformdemo2020"
+keyvault_rg="AksTerraform-RG"
+keyvault_name="management-keyVault-2020"
